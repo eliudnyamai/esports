@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="en">
-<?php include 'includes/head.php'?>
+<?php include 'includes/head1.php'?>
+<title>eSport : parier sur le jeu Call of Duty </title>
+<?php include 'includes/head2.php'?>
 <body>
 	<?php include 'includes/header.php'?>
 	<?php include 'includes/topmenu.php' ?>
@@ -31,16 +33,16 @@
 									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Cbet</a></li>
 								</ul>
 							</div>	
-							<h1>eSport : parier sur le jeu Call of Duty </h1>
+					
 							<div>
-								<h2>Comment parier sur le jeu Call of Duty ?</h2>
+								<h1>Comment parier sur le jeu Call of Duty ?</h1>
 								<p>
                                 Call of Duty ne fait pas exception à la règle de paris et propose d’importants tournois sur lesquels vous pouvez aisément miser. Pour les habitués des paris, découvrez la formule idéale pour gagner de l’argent réel grâce à Call of Duty.
                                 </p>
 							</div>
 
                             <div>
-								<h3>Choisir le bon bookmaker : le premier pas vers les paris gagnants</h3>
+								<h2>Choisir le bon bookmaker : le premier pas vers les paris gagnants</h2>
 								<p>
                                 La première étape pour parier sur le jeu est d’identifier un bookmaker sérieux. Il est évident que vous ne pouvez pas miser votre argent sur un site non fiable. À cet effet, il faudra compter sur une plateforme qui propose l’eSport dans ses catégories dont le jeu Call of Duty. Cette condition n’est malheureusement pas suffisante. Votre bookmaker doit être en mesure de vous fournir les services suivants :
                                 </p>
@@ -58,7 +60,7 @@
                             </div>
 
                             <div>
-								<h3>Développer une stratégie pour faire moins de perte</h3>
+								<h2>Développer une stratégie pour faire moins de perte</h2>
 								<p>
                                 Il n’y a pas une stratégie parfaite pour gagner de l’argent grâce à Call of Duty. Cependant, vous pouvez adopter des habitudes pour faire moins de perte. 
                                 </p>
@@ -67,11 +69,11 @@
                             </div>
 
                             <div>
-                                <h3>Les différents tournois de Call of Duty</h3>
+                                <h2>Les différents tournois de Call of Duty</h2>
                                 <p>Beaucoup de gamers à travers le monde se défient à travers plusieurs compétitions. Ceci est profitable pour les parieurs.</p>
-                                <h4>Call of Duty World League (CDWL)</h4>
+                                <h3>Call of Duty World League (CDWL)</h3>
                                <p>Anciennement connue sous le nom de Call of Duty Championship, cette compétition a changé de nom depuis 2015. Ceci fait suite à son partenariat avec Sony. Au total, 32 équipes participent à la compétition. Elles sont issues des qualifications observées sur chaque continent. Le vainqueur remporte le montant de 400 000 dollars. Vous pouvez parier sur ce dernier et remporter une belle cagnotte à la fin.</p>
-                               <h4>Call of Duty Challengers</h4>
+                               <h3>Call of Duty Challengers</h3>
                                <p>Ce tournoi est conçu pour les amateurs. En réalité, c’est une transition pour intégrer le monde professionnel. Les joueurs font partie d’un classement et essayent d’engranger le maximum de points tout au long de l’année. Il est récent, mais promet d’être un évènement incontournable surtout lorsqu’on sait qu’elle présente d’excellentes cotes lors des matchs pour générer des revenus.</p>
                             </div>
 						</div>

@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="en">
-<?php include 'includes/head.php'?>
+<?php include 'includes/head1.php'?>
+<title>eSport : parier sur le jeu CS : GO</title>
+<?php include 'includes/head2.php'?>
 <body>
 	<?php include 'includes/header.php'?>
 	<?php include 'includes/topmenu.php' ?>
@@ -31,16 +33,16 @@
 									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Cbet</a></li>
 								</ul>
 							</div>	
-							<h1>eSport : parier sur le jeu CS : GO</h1>
+						
 							<div>
-								<h2>Comment parier sur le jeu CS : GO?</h2>
+								<h1>Comment parier sur le jeu CS : GO?</h1>
 								<p>
                                 Créé par Valve Corporation, Counter Strike : Global Offensive ou CS : GO est un jeu de tir adapté à la compétition en équipe. Son succès a suscité la création de nombreux sites de paris gratuits avec la possibilité de miser de l’argent réel. Gamers et amoureux de paris, découvrez ici comment réussir des paris sur l’un des FPS les plus populaires de l’eSport.
                                </p>
 							</div>
 
                             <div>
-								<h3>Bien choisir son bookmaker CS : GO</h3>
+								<h2>Bien choisir son bookmaker CS : GO</h2>
 								<p>
                                 S’il est possible de miser sur son club de football préféré, les paris sur CS : GO partagent également ce principe. Il faut néanmoins bien choisir son bookmaker afin de maximiser ses chances de faire des gains.
                                </p>
@@ -50,7 +52,7 @@
                             </div>
 
                             <div>
-								<h3>Choisir un mode de paris</h3>
+								<h2>Choisir un mode de paris</h2>
 								<p>
                                 Dans la majorité des cas, les paris proposés ont trait à une rencontre entre des équipes au cours d’un tournoi. À cet effet, il faut noter que CS : GO implique la participation de deux équipes : celle des terroristes et celle des antiterroristes. Vous avez donc la possibilité de miser sur la victoire de votre favorite. Dans la liste des meilleures équipes de ce jeu, on retrouve :
                                 </p>
@@ -71,7 +73,7 @@
                             </div>
 
                             <div>
-                                <h3>Connaitre les différents tournois</h3>
+                                <h2>Connaitre les différents tournois</h3>
                                 <p>Un bon parieur se doit de connaître les tournois importants de CS : GO. Cela permet de mieux orienter ses choix et d’avoir une parfaite connaissance des meilleures cotes. Dans la liste, on retrouve le DreamHack Masters. Il s’agit du point culminant des compétitions de CS : GO, qui a lieu deux fois dans l’année. Ce sont les Suédois du club Fnatic qui dominent l’évènement, mais les surprises peuvent ne pas manquer.</p>
                                 <p>Si ce tournoi semble être d’un niveau supérieur, vous pouvez tout de même participer à plusieurs autres de la même envergure. On pense notamment à l’ESL ESEA Pro League, le CEVO Professional ou encore la Counter Pit League.</p>
                             </div>

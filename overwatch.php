@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="en">
-<?php include 'includes/head.php'?>
+<?php include 'includes/head1.php'?>
+<title>eSport : parier sur le jeu Overwatch </title>
+<?php include 'includes/head2.php'?>
 <body>
 	<?php include 'includes/header.php'?>
 	<?php include 'includes/topmenu.php' ?>
@@ -31,16 +33,16 @@
 									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Cbet</a></li>
 								</ul>
 							</div>	
-							<h1>eSport : parier sur le jeu Overwatch </h1>
+							
 							<div>
-								<h2>Comment parier sur le jeu Overwatch ?</h2>
+								<h1>Comment parier sur le jeu Overwatch ?</h1>
 								<p>
                                 Les paris sur les sports électroniques sont devenus une tendance adoptée par de nombreuses personnes dans le monde. Overwatch intègre parfaitement cette liste de jeu et c’est à juste titre qu’il se retrouve dans les offres eSport de certains bookmakers. Si vous êtes un amoureux de paris eSport, découvrez les informations nécessaires pour parier sur ce jeu de tir futuriste.
                                 </p>
 							</div>
 
                             <div>
-								<h3>Connaitre les différentes plateformes pour mieux parier sur Overwatch</h3>
+								<h2>Connaitre les différentes plateformes pour mieux parier sur Overwatch</h2>
 								<p>
                                 Les plateformes dédiées aux paris sur Overwatch sont nombreuses. Toutefois, elles ne présentent pas les mêmes avantages aux parieurs. Par conséquent, il est souvent conseillé de prendre connaissance des offres de chaque bookmaker avant de vous lancer dans toute sorte de paris en ligne.
                                 </p>
@@ -51,7 +53,7 @@
                             </div>
 
                             <div>
-								<h3>Maitrisez les types de paris Overwatch</h3>
+								<h2>Maitrisez les types de paris Overwatch</h2>
 								<p>
                                 Pour parier sur Overwatch, il est évident que la connaissance des types de paris est inéluctable. À cet effet, il est important de retenir qu’il en existe une kyrielle. Toutefois, il est préférable de choisir ses paris, car ils n’offrent pas les mêmes cotes ou avantages.
                                 </p>
@@ -63,13 +65,13 @@
                                 </ul>
                             </div>
                             <div>
-                                <h3>Connaître la bonne stratégie à adopter pour faire moins de perte</h3>
+                                <h2>Connaître la bonne stratégie à adopter pour faire moins de perte</h2>
                                 <p>Overwatch est un jeu très imprévisible. Une équipe dominante peut vite perdre le contrôle sur une partie. Ceci s’explique par les joueurs en présence. C’est pour cette raison qu’il est préférable de vérifier la liste des joueurs de chaque équipe avant un pari. En plus, consulter l’historique de chaque équipe constitue une excellente stratégie pour faire vos paris.</p>
-                                <h4>Miser sur les tournois majeurs</h4>
+                                <h3>Miser sur les tournois majeurs</h3>
                                 <p>Les compétitions officielles ou tournois majeurs sont un must que tout parieur doit connaître. Mieux, ces tournois représentent une opportunité de gagner de l’argent à travers des mises.</p>
-                                <h4>Le tournoi mondial ou l’Overwatch League</h4>
+                                <h3>Le tournoi mondial ou l’Overwatch League</h3>
                                 <p>La ligue Overwatch est sans doute le tournoi le plus important de ce sport électronique. Les équipes participantes proviennent de plusieurs régions du monde pour défendre leur pays. Le tournoi se déroule en une saison régulière et une série éliminatoire. Le vainqueur est récompensé d’une somme d’un million de dollars.</p>
-                                <h4>L’Overwatch Contenders</h4>
+                                <h3>L’Overwatch Contenders</h3>
                                 <p>Cette compétition rassemble douze équipes par région et permet aux nouveaux joueurs de participer à l’Overwatch League. En plus de trois saisons au cours de l’année pour permettre d’engranger des points, il y a des séries éliminatoires. Celles-ci se déroulent au niveau de chaque région continentale.</p>
                             </div>
 						</div>

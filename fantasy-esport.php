@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="en">
-<?php include 'includes/head.php'?>
+<?php include 'includes/head1.php'?>
+<title>L’essentiel à savoir du Fantasy eSport </title>
+<?php include 'includes/head2.php'?>
 <body>
 	<?php include 'includes/header.php'?>
 	<?php include 'includes/topmenu.php' ?>
@@ -31,16 +33,16 @@
 									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Cbet</a></li>
 								</ul>
 							</div>	
-							<h1>L’essentiel à savoir du Fantasy eSport </h1>
+							
 							<div>
-								<h2>Présentation du Fantasy eSport</h2>
+								<h1>Présentation du Fantasy eSport</h1>
 								<p>
                                 L’avènement des sports électroniques a radicalement changé le visage du monde sportif. Plusieurs passionnées de jeux e-sports sont alors nés avec une parfaite maîtrise des jeux les plus révolutionnaires. Cependant, certains restent encore inconnus chez certains amateurs à l’instar du Fantasy eSport. Découvrez ici tout ce qu’il faut savoir sur cette discipline. 
                                 </p>
 							</div>
 
                             <div>
-								<h3>Qu’est-ce que le Fantasy eSport ?</h3>
+								<h2>Qu’est-ce que le Fantasy eSport ?</h2>
 								<p>
                                 Le Fantasy eSport est la version en ligne de la ligue fantasy. En résumé, c’est un type de sport électronique qui regroupe plusieurs autres eSport dits fantastiques.
                                 </p>
@@ -56,7 +58,7 @@
 							</div>
 
                             <div>
-								<h3>Fantasy eSport : le nouveau visage des paris électroniques</h3>
+								<h2>Fantasy eSport : le nouveau visage des paris électroniques</h2>
 								<p>
                                 En raison des millions de fans qui suivent les tournois du Fantasy eSport, cette branche du eSport est rapidement devenue un secteur de paris sportifs. Il s’agit là d’un moyen lucratif de rentabilisation auquel certaines plateformes licenciées ont pensé pour accompagner les parieurs. 
                                 </p>
@@ -66,27 +68,27 @@
 							</div>
 
                             <div>
-								<h3>Fantasy eSport et ses différentes disciplines</h3>
+								<h2>Fantasy eSport et ses différentes disciplines</h2>
 								<p>
                                 Le Fantasy eSport regroupe un nombre considérable de jeux que l’on décline sous diverses disciplines.
                                 </p>
 							</div>
 
                             <div>
-								<h3>Fantasy Lol ou League of Legends</h3>
+								<h2>Fantasy Lol ou League of Legends</h2>
 								<p>
                                 C’est de loin le jeu le plus apprécié des joueurs et des téléspectateurs. Par principe, le nombre de places pour le Fantasy league des légendes est limité à sept : capitaine ; TOP ; MID ; JNG ; SUP ; ADC ; Equipe.
                                </p>
 							</div>
 
                             <div>
-								<h3>Fantasy Rocket League</h3>
+								<h2>Fantasy Rocket League</h2>
 								<p>
                                 Dans le monde du Fantasy eSport, la Rocket League est une nouveauté. Elle consiste à se servir de voitures super puissantes pour jouer au football. En qui concerne la composition des équipes, elle se limite à quatre places : deux flex et deux capitaines.
                                 </p>
 							</div>
                             <div>
-								<h3>Quels sont les grands tournois à suivre pour le Fantasy eSport ?</h3>
+								<h2>Quels sont les grands tournois à suivre pour le Fantasy eSport ?</h2>
 								<p>
                                 Pour le plaisir, des fans et des joueurs professionnels, il existe une ribambelle de grands évènements autour du Fantasy eSport.
                                 </p>

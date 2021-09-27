@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en">
-<?php include 'includes/head.php'?>
+<?php include 'includes/head1.php'?>
+<title>FAQ sur les paris eSports</title>
+<?php include 'includes/head2.php'?>
+
 <body>
 	<?php include 'includes/header.php'?>
 	<?php include 'includes/topmenu.php' ?>
@@ -32,9 +35,9 @@
 									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Cbet</a></li>
 								</ul>
 							</div>	
-							<h1>FAQ sur les paris eSports</h1>
+							
 							<div>
-								<h2>Qu’est-ce que l’eSport ?</h2>
+								<h1>Qu’est-ce que l’eSport ?</h1>
 								<p>
                                      Le terme eSport correspond à l’abréviation de l’expression anglaise « electronics sports ». Il fait référence en particulier aux jeux vidéo pouvant faire objet de compétition. Des millions de personnes participent à ce genre de jeux dans le monde. Toutefois, il n’y a qu’une infirme partie qui est constituée de professionnels.	
                             	</p>

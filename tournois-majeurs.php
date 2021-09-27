@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="en">
-<?php include 'includes/head.php'?>
+<?php include 'includes/head1.php'?>
+<title>Liste des tournois eSports majeurs</title>
+<?php include 'includes/head2.php'?>
 <body>
 	<?php include 'includes/header.php'?>
 	<?php include 'includes/topmenu.php' ?>
@@ -31,16 +33,16 @@
 									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Cbet</a></li>
 								</ul>
 							</div>	
-							<h1>Liste des tournois eSports majeurs </h1>
+							
 							<div>
-								<h2>Les tournois eSports majeurs</h2>
+								<h1>Les tournois eSports majeurs</h1>
 								<p>
                                 Les sports électroniques regroupent des millions de fans autour des jeux vidéo populaires comme League of Legends, Fortnite, etc. Ces derniers sont soutenus par des tournois majeurs organisés annuellement pour le plaisir de la communauté eSport. Découvrez à travers ce guide quelques tournois majeurs en eSport.
                                 </p>
 							</div>
 
                             <div>
-								<h3>Le tournoi Fortnite World Cup</h3>
+								<h2>Le tournoi Fortnite World Cup</h2>
 								<p>
                                 Déjà disponible sur presque tous les supports numériques (PC, PS4, XBOX et Switch), Fortnite est l’un des jeux les plus populaires au monde. Sorti en 2017, ce jeu de l’éditeur Epic Games fait un carton et possède une énorme communauté. Son graphisme cartoon embarque un design presque réaliste.
                                 </p>
@@ -53,7 +55,7 @@
 							</div>
 
                             <div>
-								<h3>Hearthstone Masters Tour</h3>
+								<h2>Hearthstone Masters Tour</h2>
 								<p>
                                 Développé par Blizzard Entertainment, Hearthstone est le seul jeu mobile présent sur la scène eSport.
                                 </p>
@@ -64,7 +66,7 @@
 							</div>
 
                             <div>
-								<h3>Le Call of Duty Championship</h3>
+								<h2>Le Call of Duty Championship</h2>
 								<p>
                                 Sponsorisé par XBOX, le premier tournoi Call of Duty Championship fut lancé en 2011. Connu aujourd’hui sous le nouveau vocable de World League ou CWL, il est organisé chaque année et implique la participation de 32 équipes.
                                 </p>
@@ -74,14 +76,14 @@
 							</div>
 
                             <div>
-								<h3>The international Dota 2 </h3>
+								<h2>The international Dota 2 </h2>
 								<p>
                                 The international Dota 2 est l’un des tournois majeurs qui attire de plus en plus de monde à chaque édition. Lancé en 2011, il regroupe 18 équipes issues d’une phase éliminatoire, de différents tournois mineurs de Dota 2. Les compétiteurs viennent d’un peu partout dans le monde à la recherche du grand trophée Aegis of Champions. La récompense qui accompagne le trophée varie en fonction des dotations de l’année. Sa valeur peut atteindre les 15 millions de dollars.    
                                 </p>
 							</div>
 
                             <div>
-								<h3>La FIFA eWorld Cup</h3>
+								<h2>La FIFA eWorld Cup</h2>
 								<p>
                                 EA Sports connaît chaque année un succès vraiment remarquable grâce à son célèbre jeu FIFA.
                                 </p>

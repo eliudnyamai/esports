@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="en">
-<?php include 'includes/head.php'?>
+<?php include 'includes/head1.php'?>
+<title>eSport : parier sur le jeu SC 2</title>
+<?php include 'includes/head2.php'?>
 <body>
 	<?php include 'includes/header.php'?>
 	<?php include 'includes/topmenu.php' ?>
@@ -31,16 +33,16 @@
 									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Cbet</a></li>
 								</ul>
 							</div>	
-							<h1>eSport : parier sur le jeu SC 2</h1>
+							
 							<div>
-								<h2>Comment parier sur le jeu SC 2 ?</h2>
+								<h1>Comment parier sur le jeu SC 2 ?</h1>
 								<p>
                                 Les sports électroniques sont venus révolutionner le monde du jeu vidéo. StarCraft 2 ou SC 2 est sans surprise, parmi les jeux les plus sollicités par les passionnés. Il regroupe assez de gamers comme de parieurs. Ces derniers, qui désirent gagner de l’argent, ignorent souvent comment s’y prendre.
                                 </p>
 							</div>
 
                             <div>
-								<h3>Les bookmakers disponibles pour SC 2</h3>
+								<h2>Les bookmakers disponibles pour SC 2</h2>
 								<p>
                                 Avant de vous lancer dans les paris StarCraft 2, il est primordial de prendre connaissance des bookmakers disponibles. Il faut cependant avouer que les offres varient d’un bookmaker à un autre. Afin de vous faciliter la tâche, faites le tour des comparatifs accessibles sur les moteurs de recherches.
                                 </p>
@@ -51,7 +53,7 @@
                             </div>
 
                             <div>
-								<h3>Stratégies à adopter pour faire un bon pari sur SC 2</h3>
+								<h2>Stratégies à adopter pour faire un bon pari sur SC 2</h2>
 								<p>
                                 Il n’est pas toujours simple de gagner des paris sur StarCraft 2. Vous devez donc mettre sur pied quelques stratégies pour réussir.
                                 </p>
@@ -65,16 +67,16 @@
                             </div>
 
                             <div>
-                                <h3>Les différents tournois majeurs de SC 2 ?</h3>
+                                <h2>Les différents tournois majeurs de SC 2 ?</h2>
                                 <p>StarCraft 2 regroupe dans le monde une multitude de joueurs à travers des compétitions. Pour les parieurs, c’est le moment idéal d’effectuer des mises.</p>
                             </div>
 
                             <div>
-                                <h3>StarCraft 2 World ChampionShip Series</h3>
+                                <h2>StarCraft 2 World ChampionShip Series</h2>
                                 <p>Créée en 2012 par Blizzard Entertainment, cette compétition se déroule en deux phases : la phase éliminatoire et la phase finale. Avant de retrouver cette dernière étape, les compétiteurs s’affrontent au niveau continental en Europe et en Amérique. Il y a aussi une phase éliminatoire en Corée.</p>
                             </div>
                             <div>
-                                <h3>StarCraft 2 Starleague</h3>
+                                <h2>StarCraft 2 Starleague</h2>
                                 <p>StarCraft 2 Starleague est une des ligues qui se jouent en Corée. Elle met en jeu un nombre impressionnant de participants (32 pour être précis). Les joueurs qui réussissent une bonne compétition augmentent leur nombre de points. L’équipe vainqueur de cette compétition est en mesure de remporter plus 35 000 dollars américains.</p>
                             </div>
 						</div>

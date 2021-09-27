@@ -887,6 +887,7 @@ body:not(.mobile) #stickynav{
 /*  BLOG POST   ==================================================================== */
 .blog-post {
 	background: #fff;
+	
 }
 
 .blog-post:hover {
@@ -913,7 +914,7 @@ body:not(.mobile) #stickynav{
 }
 
 .blog-post p {
-	height: 90px;
+	/* height: 90px; */
 	overflow: hidden;
 }
 
@@ -1891,4 +1892,7 @@ footer ul.social li a:hover i {
 .in-article-list>li{
 	list-style-type: disc;
 	list-style-position: inside;
+}
+.in-article-link{
+  text-decoration: underline;
 }

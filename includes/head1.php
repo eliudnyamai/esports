@@ -1,9 +1,8 @@
 <?php
 echo '<head>
 <meta charset="UTF-8">
+<meta lang="fr">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-<title>Esport Guide</title>
 
 <link rel="stylesheet" href="css/style.css"/>
 <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css"/>

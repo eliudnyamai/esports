@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en">
-<?php include 'includes/head.php'?>
+<?php include 'includes/head1.php'?>
+<title>Parier sur l’eSport avec le Bitcoin</title>
+<?php include 'includes/head2.php'?>
+
 <body>
 	<?php include 'includes/header.php'?>
 	<?php include 'includes/topmenu.php' ?>
@@ -32,15 +35,14 @@
 									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Pinnacle</a></li>
 								</ul>
 							</div>	
-							<h1>Parier sur l’eSport avec le Bitcoin</h1>
 							<div>
-								<h2>Parier en Bitcoin</h2>
+								<h1>Parier en Bitcoin</h1>
 								<p>
                                     En plein essor, les cryptomonnaies s’utilisent actuellement dans plusieurs domaines. Dans l’univers des paris eSport, elles sont d’une maniabilité et d’une rentabilité sans égale. À défaut des monnaies de transactions traditionnelles, vous pouvez donc les utiliser pour parier sur les divers jeux électroniques proposés par les bookmakers. Cela constitue une bonne nouvelle, puisque les cryptomonnaies comme le Bitcoin présentent bien d’avantages. 
                                 </p>
 							</div>
 							<div>
-								<h3>Comment obtenir des bitcoins pour réussir ses pronostics ?</h3>
+								<h2>Comment obtenir des bitcoins pour réussir ses pronostics ?</h2>
                                 <p>Il est assez facile d’obtenir des bitcoins, notamment à travers les nombreux services de change disponibles sur Internet. La plupart du temps, ce sont plutôt des fragments de cette crypto monnaie que l’on se procure. Un certain montant, c’est-à-dire une commission, sera prélevé sur le montant total que vous aurez à investir. </p>
                                 <p>Cela voudrait dire que le taux de change dont vous disposerez serait légèrement moins intéressant que la valeur brute du bitcoin. Pour un simple pari en ligne, le mieux serait donc de ne pas changer vos euros ou toute autre monnaie. </p>
                                 <p>Néanmoins, si vous souhaitez utiliser du bitcoin pour d’autres activités, il vous suffit d’adhérer à un service de gestion de porte-monnaie. Cela vous permet de faire à la fois des transactions de dépôt et de retrait.</p>
@@ -48,12 +50,12 @@
                             </div>
 
 							<div>
-								<h3>Quels sont les avantages du bitcoin ?</h3>
+								<h2>Quels sont les avantages du bitcoin ?</h2>
 								<p>Selon les amateurs passionnés, le bitcoin représente le futur des échanges de valeur. En plus de permettre la sécurisation des données, il assure des paiements rapides. Toutes les données personnelles issues des transactions des utilisateurs sont également centralisées. Et malgré le nombre de ses détracteurs, elle conserve son efficacité, sa résistance et l’anonymisation de ses transactions. Enfin, les paris eSports en bitcoin demeurent aussi fiables et sécurisés que les paris avec les moyens de paiement classiques.</p>
 							</div>
 
 							<div>
-								<h3>Comment effectuer un dépôt et un retrait des bitcoins ?</h3>
+								<h2>Comment effectuer un dépôt et un retrait des bitcoins ?</h2>
 								<p>
                                 Une fois que l’utilisateur est en possession de son adresse bitcoin, il doit se diriger vers l’application ou le site de son bookmaker. Il faut bien évidemment que ce dernier propose des paris de jeux électroniques en bitcoin. Plusieurs étapes sont donc à suivre :
                               </p>
@@ -70,7 +72,7 @@
                             </div>
 
 							<div>
-								<h3>Délais, frais et limites : que faut-il retenir ?</h3>
+								<h2>Délais, frais et limites : que faut-il retenir ?</h2>
 								<p>
                                     L’une des caractéristiques des sites de paris eSport en bitcoin est le paiement instantané. Il n’y a pas vraiment de limites. Cependant, il est possible d’imaginer un seuil bien au-dessus de ceux des cartes bancaires. Tout dépend du bookmaker choisi.   
                                  </p>
