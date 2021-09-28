@@ -13,18 +13,7 @@
 					<div class="post">
 						<div class="module-content">
 							<div class="post-img">
-					<div class="owl-carousel owl-theme" data-items="2" data-auto-play="true">
-						<div class="item"><img src="img/bg-04.jpg" alt="The Last of us"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="GTA V"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-					</div>
+						<div class="item"><img src="../img/game.jpg" alt="The Last of us"></div>
 					</div>																
 							<div class="info">
 								<ul >
@@ -42,16 +31,16 @@
                             <div>
 								<h2>eSport : généralités sur cette nouvelle ère du sport professionnel</h2>
 								<p>
-                                L’eSport ou electronic sport est un vocable anglais encore connu sous les orthographes de esport et de e-sport. De façon littérale, il s’agit d’un sport électronique qui consiste à pratiquer un jeu vidéo en ligne par l’entremise d’une console de gaming ou d’un ordinateur. Ce type de sport a l’avantage de se faire en mode solo ou en mode multijoueur.
+                                L’eSport ou electronic sport est un vocable anglais encore connu sous les orthographes de esport et de e-sport. De façon littérale, il s’agit d’un <strong>sport électronique </strong> qui consiste à pratiquer un jeu vidéo en ligne par l’entremise d’une console de gaming ou d’un ordinateur. Ce type de sport a l’avantage de se faire en mode solo ou en mode multijoueur.
                                 </p>
 							</div>
 
                             <div>
 								<h2>Bref historique sur l’eSport</h2>
 								<p>
-                                Contrairement aux stéréotypes, l’eSport est une discipline qui porte une vieille histoire. En effet, tout remonte aux années 1990 avec l’introduction des premiers réseaux de jeux en équipe. Très vite, elle connait une forte progression sur la scène internationale entre 2000 et 2010. Les premiers tournois de jeux sont donc organisés et l’eSport connaît ses premières heures de gloire.
+                                Contrairement aux stéréotypes, l’eSport est une discipline qui porte une vieille histoire. En effet, tout remonte aux années 1990 avec l’introduction des premiers réseaux de <strong>jeux en équipe</strong>. Très vite, elle connait une forte progression sur la scène internationale entre 2000 et 2010. Les premiers tournois de jeux sont donc organisés et l’eSport connaît ses premières heures de gloire.
                                 </p>
-                                <p>Il faut rappeler que ce genre de sport est soutenu par plusieurs instances internationales. Elles prennent entièrement en charge l’organisation des compétitions mondiales. Il s’agit notamment de :</p>
+                                <p>Il faut rappeler que ce genre de sport est soutenu par plusieurs instances internationales. Elles prennent entièrement en charge <strong>l’organisation des compétitions mondiales</strong>. Il s’agit notamment de :</p>
                                 <ul class="in-article-list" >
                                     <li>L’ESWC ou Esports World Convention ;</li>
                                     <li>La MLG ou Major League Gaming ;</li>
@@ -62,14 +51,17 @@
                                 En dehors de ces derniers, les autres sources de financement de l’eSport se résument aux sponsors et aux gains issus des matchs streamings.
                                 </p>
 							</div>
-
+							<div class="post-img">
+						<div class="item"><img src="../img/game1.jpg" alt="The Last of us"></div>
+					
+					</div>	
                             <div>
 								<h2>eSport et ses détracteurs</h2>
 								<p>
                                 Plusieurs courants de pensée estiment que l’eSport ne saurait être présenté comme un sport moderne. Pour les hygiénistes, l’eSport ne répond à aucun critère du sport traditionnel en raison de son caractère non physique. Par conséquent, elle ne devrait pas profiter d’une professionnalisation.
                                 </p>
                                 <p>
-                                Toutefois, il faut reconnaître que certains jeux, à l’instar de LoL ou SC2 impliquent d’intenses entrainements et un mode de vie stricte dans la préparation des compétitions. Mieux, le joueur sont connus pour réaliser plus de 300 actions par minute, un effort physique qui reste non négligeable. Enfin, certains joueurs sont reconnus à juste titre comme des professionnels dans certains États de l’Amérique du Nord comme Los Angeles.
+                                Toutefois, il faut reconnaître que certains jeux, à l’instar de LoL ou SC2 impliquent <strong>d’intenses entrainements</strong> et un mode de vie stricte dans la préparation des compétitions. Mieux, le joueur sont connus pour réaliser plus de 300 actions par minute, un effort physique qui reste non négligeable. Enfin, certains joueurs sont reconnus à juste titre comme des professionnels dans certains États de l’Amérique du Nord comme Los Angeles.
                                 </p>
 							</div>
 
@@ -90,7 +82,7 @@
                             <div>
 								<h2>Les RTS ou les jeux de stratégie en temps réel</h2>
 								<p>
-                                Tirée de l’anglais Real Time Strategy, cette catégorie de jeux a largement contribué à l’essor de l’eSport. Essentiellement accessibles sur PC, les RTS sont des jeux qui impliquent une gestion rationnelle de vos ressources. En effet, chaque joueur à l’objectif d’optimiser sa base en regroupant les personnages et les armes indispensables pour repérer et anéantir son adversaire.
+                                Tirée de l’anglais Real Time Strategy, cette catégorie de jeux a largement contribué à l’essor de l’eSport. Essentiellement accessibles sur PC, les RTS sont des jeux qui impliquent une <strong>gestion rationnelle de vos ressources. </strong> En effet, chaque joueur à l’objectif d’optimiser sa base en regroupant les personnages et les armes indispensables pour repérer et anéantir son adversaire.
                                 </p>
                                 <p>
                                 De l’autre côté, les RTS sont particulièrement conçus pour développer l’esprit d’improvisation. À l’évidence, il est quasi impossible de réussir une partie en peaufinant à l’avance une tactique. Ici, la stratégie intervient à chaque évolution du jeu. Le plus important est de produire au moment opportun la bonne action. On comprend alors que les RTS exigent de la patience et une forte réactivité même pendant les phases ardues.
@@ -100,7 +92,7 @@
                             <div>
 								<h2>Les FPS (First Person Shooter) ou les jeux de tir</h2>
 								<p>
-                                La catégorie des First Person Shooter met en exergue un avatar représenté par le joueur qui l’incarne. Dans ces types de jeux, le joueur visualise les différents scénarios à travers les yeux de son personnage. Il a pour but de venir à bout de ses adversaires, ce qui lui donne une impression de réalité quasi immédiate. Dans les FPS, l’adversaire peut être représenté par un tiers joueur ou par l’ordinateur.
+                                La catégorie des First Person Shooter met en exergue un avatar représenté par le joueur qui l’incarne. Dans ces types de jeux, le joueur visualise les différents scénarios à travers les yeux de son personnage. Il a pour but de <strong>venir à bout de ses adversaires</strong>, ce qui lui donne une impression de réalité quasi immédiate. Dans les FPS, l’adversaire peut être représenté par un tiers joueur ou par l’ordinateur.
                                  </p>
 							</div>
 
@@ -113,7 +105,7 @@
                                     <li>d’action ;</li>
                                     <li>de stratégie et de rôle.</li>
                                 </ul>
-                                <p>Le principe des MOBA consiste à incarner un héros ou un personnage fictif du jeu sélectionné. Ce dernier peut être doté de pourvois spéciaux ou non, mais le but reste de détruire l’unité de combat du camp adverse. En matière de rémunération, les jeux signés MOBA sont les plus plébiscités par les joueurs pros.</p>
+                                <p>Le principe des MOBA consiste à <strong>incarner un héros ou un personnage fictif </strong> du jeu sélectionné. Ce dernier peut être doté de pourvois spéciaux ou non, mais le but reste de détruire l’unité de combat du camp adverse. En matière de rémunération, les jeux signés MOBA sont les plus plébiscités par les joueurs pros.</p>
 							</div>
 
                             <div>

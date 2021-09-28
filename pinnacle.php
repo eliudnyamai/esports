@@ -12,6 +12,7 @@
 				<div class="m-10">
 					<div class="post">
 						<div class="module-content">
+                       
 							<div>
 								<h1>Revue de Pinnacle</h1>
 								<p>
@@ -25,10 +26,10 @@
                                     Autrefois connu sous le nom de Pinnacle Sports, Pinnacle est l’un des pionniers sur le marché. En effet, cette société a été créée le 6 août 1998 et a officiellement lancé son offre de paris sportifs deux mois plus tard. Le premier bureau du bookmaker a été ouvert à Curaçao ainsi que son inauguration en 2001.
                                 </p>
 								<p>
-                                    Avec l’évolution de la technologie, le lancement d’un site de paris sportifs opérant totalement en ligne a pu se faire. Très vite, le bookmaker gagne en popularité grâce à un système de gains rapides proposé à sa clientèle. Toutefois, tous les types de paris n’étaient pas pris en compte, notamment ceux du eSport.
+                                    Avec l’évolution de la technologie, le lancement d’un <strong>site de paris sportifs </strong> opérant totalement en ligne a pu se faire. Très vite, le bookmaker gagne en popularité grâce à un système de gains rapides proposé à sa clientèle. Toutefois, tous les types de paris n’étaient pas pris en compte, notamment ceux du eSport.
                                 </p>
                                 <p>
-                                    Il faudra attendre janvier 2010 pour que Pinnacle devienne le tout premier bookmaker à couvrir les paris du sport électronique. La popularité des eSports a été un grand atout permettant ainsi à l’entreprise de proposer plusieurs marchés de jeux vidéo. Aujourd’hui, elle compte un score impressionnant de plus de 10 millions de paris eSport exécutés. 
+                                    Il faudra attendre janvier 2010 pour que Pinnacle devienne le tout premier bookmaker à couvrir les paris du sport électronique. La popularité des eSports a été un grand atout permettant ainsi à l’entreprise de proposer plusieurs <strong>marchés de jeux vidéo</strong>. Aujourd’hui, elle compte un score impressionnant de plus de 10 millions de paris eSport exécutés. 
                                 </p>
                                 <p>On n’oublie pas de préciser que cette performance a d’ailleurs été couronnée par de nombreux prix internationaux à savoir : </p>
                                 <ul class="in-article-list" >
@@ -37,11 +38,13 @@
                                     <li>le prix Gaming Intelligence eSports Operator of the Year.</li>
 								</ul>
                             </div>
-
+                            <div class="post-img">
+						<div class="item"><img src="img/pinnacle-jeux.jpg" alt="The Last of us"></div>
+					    </div>
 							<div>
 								<h2>Pinnacle : un site réglementé pour la sécurité des clients</h2>
 								<p>
-                                   Comme tout bookmaker digne de ce nom, Pinnacle cultive un sens du respect des normes régissant le domaine des paris eSports. En France, le site fonctionne uniquement sur le protocole IP sécurisé HTTPS. Son URL détient un certificat SSL valide.
+                                   Comme tout bookmaker digne de ce nom, Pinnacle cultive un sens du respect des <strong>normes régissant le domaine des paris eSports. </strong> En France, le site fonctionne uniquement sur le protocole IP sécurisé HTTPS. Son URL détient un certificat SSL valide.
                                 </p>
                                 <p>En ce qui concerne le droit d’exercer ses activités à travers différents pays, le fournisseur de paris a reçu l’autorisation des organismes de réglementation ci-après :</p>
 								<ul class="in-article-list" >
@@ -62,22 +65,24 @@
                                     Sur Pinnacle, le taux minimum pour un pari s’élève à 1 euro. Pour un jour calendaire et par pari express, le montant total maximum des gains à enregistrer peut facilement avoisiner 250 000 euros. De l’autre côté, il est également possible de retrouver des paris dont la taille maximale s’étend sur 10 000 euros. En contrepartie, le parieur peut remporter une belle cagnotte de gains entre 25 000 euros et 80 000 euros. Tout dépend en réalité du tournoi choisi et du coefficient de chaque match.  
                                </p>
                                <h1>Bonus de bienvenue</h1>
-                               <p>En créant un compte personnel sur le site officiel de Pinnacle, le compte du client est facturé d’un montant fixe. Il s’agit en quelque sorte d’un bonus de bienvenue qui peut aller jusqu’à 250 euros. Ce genre de promotion permet à l’utilisateur de commencer son aventure sur un fourre-tout, même en n’ayant pas de pièces jointes.</p>
+                               <p>En créant un compte personnel sur le <strong>site officiel de Pinnacle</strong>, le compte du client est facturé d’un montant fixe. Il s’agit en quelque sorte d’un bonus de bienvenue qui peut aller jusqu’à 250 euros. Ce genre de promotion permet à l’utilisateur de commencer son aventure sur un fourre-tout, même en n’ayant pas de pièces jointes.</p>
 							</div>
 
 							<div>
 								<h2>Pinnacle : des cotes attractives sur plusieurs types de paris eSports</h2>
 								<p>
-                                    Il faut déjà le dire : les cotes Pinnacle font partie des plus élevées dans l’industrie. Grâce à son modèle d’affaires, il offre une ligne dynamique dotée de la marge la plus faible possible. Mis en place par le département d’analyse à plein temps, les cotes sont constamment ajustées en fonction de la direction des paris et des tendances. Cela permet au bookmaker d’offrir un système avec des cotes qui s’étend sur des milliers de part.  
+                                    Il faut déjà le dire : les cotes Pinnacle font partie des plus élevées dans l’industrie. Grâce à son modèle d’affaires, il offre une ligne dynamique dotée de la marge la plus faible possible. Mis en place par le <strong>département d’analyse à plein temps</strong>, les cotes sont constamment ajustées en fonction de la direction des paris et des tendances. Cela permet au bookmaker d’offrir un système avec des cotes qui s’étend sur des milliers de part.  
                                 </p>
                                 <p>Pour permettre des chances égales propres à un évènement majeur, les cotes vont de 1.951 à 1.971. Quant aux matchs de football virtuel, la marge est de 2,5 %. Sur le marché, la marge générale et très faible des rencontres varie entre 1,5 % et 2 %.</p>
                                </div>
-
+                               <div class="post-img">
+						<div class="item"><img src="img/pinnacle-en-vedette.jpg" alt="The Last of us"></div>
+					    </div>
 							<div>
 								<h2>Pinnacle : de nombreux tournois proposés </h2>
-                                <p>Dans le domaine des eSports, Pinnacle est nettement plus avancée que la plupart des autres sites de paris. Les catégories qui s’affichent quotidiennement ont trait aux différents évènements organisés au cours de la journée. Vous avez aussi quelques compétitions majeures indispensables aux amateurs de paris.</p>
+                                <p>Dans le domaine des eSports, Pinnacle est nettement plus avancée que la plupart des autres sites de paris. Les catégories qui s’affichent quotidiennement ont trait aux différents évènements organisés au cours de la journée. Vous avez aussi quelques <strong>compétitions majeures </strong> indispensables aux amateurs de paris.</p>
                                 <h1>Le Championnat du monde de LoL</h1>
-                                <p>Ce tournoi majeur de League of Legends embarque les League of Legends Championship Series organisés en Amérique du Nord et en Europe.</p>
+                                <p>Ce <strong>tournoi majeur </strong> de League of Legends embarque les League of Legends Championship Series organisés en Amérique du Nord et en Europe.</p>
                                 <h1>Le CS : GO BLAST Premier Global Finals</h1>
                                 <p>Ce tournoi est principalement marqué par la participation de Team Vitality et G2 ESports. Il se présente sous un format play-offs avec un arbre à double élimination. </p>
                                 <h1>Les Championnats du Dota 2</h1>
@@ -95,7 +100,7 @@
 
 							<div>
 								<h2>Des dépôts et retraits en toute assurance</h2>	
-                                <p>Grâce à ses diverses réglementations, toutes les actions qui s’opèrent sur la plateforme du bookmaker sont légales et fiables. À l’évidence, tout est mis en œuvre afin d’obtenir un parfait équilibre entre la précision des paiements, les meilleures cotes en ligne et l’absence de commissions. Il faut noter que le bookmaker prend uniquement 3 % sur les transactions du client.</p>
+                                <p>Grâce à ses <strong>diverses réglementations</strong>, toutes les actions qui s’opèrent sur la plateforme du bookmaker sont légales et fiables. À l’évidence, tout est mis en œuvre afin d’obtenir un parfait équilibre entre la précision des paiements, les <strong> meilleures cotes en ligne et l’absence de commissions</strong>. Il faut noter que le bookmaker prend uniquement 3 % sur les transactions du client.</p>
                                 <p>En ce qui concerne les méthodes de paiement (dépôt et retrait), le site également en charge les supports suivants :</p>
             
                                 <ul class="in-article-list" >
@@ -117,7 +122,7 @@
                             </div>
                             <div>
                                 <h2>Pinnacle : un service client de qualité</h2>
-                                <p>Hormis les nombreux avantages accordés à ses utilisateurs, le preneur de paris s’assure également de proposer un service clientèle de qualité. D’emblée, le site est disponible en 16 langues, dont le français, l’anglais, le chinois, l’italien, le polonais, l’espagnol et le norvégien. En cas d’une quelconque préoccupation, l’utilisateur à la possibilité de contacter les agents via :</p>
+                                <p>Hormis les nombreux avantages accordés à ses utilisateurs, le preneur de paris s’assure également de proposer un <strong>service clientèle de qualité</strong>. D’emblée, le <strong>site est disponible en 16 langues</strong>, dont le français, l’anglais, le chinois, l’italien, le polonais, l’espagnol et le norvégien. En cas d’une quelconque préoccupation, l’utilisateur à la possibilité de contacter les agents via :</p>
                                 <ul class="in-article-list" >
 									<li>Le Live-Chat qui peut être activé depuis le site web ou la version mobile de Pinnacle ;</li>
 									<li>L’email du service clientèle : customerservice@pinnacle.com.</li>

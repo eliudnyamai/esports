@@ -13,18 +13,8 @@
 					<div class="post">
 						<div class="module-content">
 							<div class="post-img">
-					<div class="owl-carousel owl-theme" data-items="2" data-auto-play="true">
-						<div class="item"><img src="img/bg-04.jpg" alt="The Last of us"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="GTA V"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-					</div>
+						<div class="item"><img src="../img/sc2.jpg" alt="The Last of us"></div>
+				
 					</div>																
 							<div class="info">
 								<ul >
@@ -44,28 +34,31 @@
                             <div>
 								<h2>Les bookmakers disponibles pour SC 2</h2>
 								<p>
-                                Avant de vous lancer dans les paris StarCraft 2, il est primordial de prendre connaissance des bookmakers disponibles. Il faut cependant avouer que les offres varient d’un bookmaker à un autre. Afin de vous faciliter la tâche, faites le tour des comparatifs accessibles sur les moteurs de recherches.
+                                Avant de vous lancer dans les paris StarCraft 2, il est primordial de prendre connaissance des <strong>bookmakers disponibles</strong>. Il faut cependant avouer que les offres varient d’un bookmaker à un autre. Afin de vous faciliter la tâche, faites le tour des <strong>comparatifs</strong> accessibles sur les moteurs de recherches.
                                 </p>
                                  <p>
-                                 Votre objectif est de viser un fournisseur de paris qui offre les meilleures opportunités de gains. On pense notamment aux bonus de bienvenue et de rechargement. Le niveau des cotes est également important si vous souhaitez faire des gains intéressants. 
+                                 Votre objectif est de viser un fournisseur de paris qui offre les <strong>meilleures opportunités de gains</strong>. On pense notamment aux bonus de bienvenue et de rechargement. Le niveau des cotes est également important si vous souhaitez faire des gains intéressants. 
                                  </p>
-                                 <p>En dehors de cela, la réussite de vos paris dépend de la complexité des tournois proposés. Il est évident que vous n’aurez pas toutes les chances avant un site qui couvre une seule compétition. Enfin, pensez à un bookmaker qui pourra accepter vos dépôts à travers les cartes prépayées, les cryptomonnaies, PayPal ou les virements bancaires comme moyen de paiement.</p>
+                                 <p>En dehors de cela, la réussite de vos paris dépend de la <strong>complexité des tournois proposés. </strong> Il est évident que vous n’aurez pas toutes les chances avant un site qui couvre une seule compétition. Enfin, pensez à un bookmaker qui pourra accepter vos dépôts à travers les cartes prépayées, les cryptomonnaies, PayPal ou les virements bancaires comme moyen de paiement.</p>
                             </div>
 
                             <div>
 								<h2>Stratégies à adopter pour faire un bon pari sur SC 2</h2>
 								<p>
-                                Il n’est pas toujours simple de gagner des paris sur StarCraft 2. Vous devez donc mettre sur pied quelques stratégies pour réussir.
+                                Il n’est pas toujours simple de <strong>gagner des paris sur StarCraft 2</strong>. Vous devez donc mettre sur pied quelques stratégies pour réussir.
                                 </p>
                                 <p>
-                                En premier lieu, vous devez récolter assez d’informations sur l’évènement sur lequel vous souhaitez parier. De façon concrète, ces dernières seront obtenues à travers les matchs, la fiche de chaque joueur ainsi que les méta-jeux. Elles vous permettront de maîtriser les différents paramètres du jeu, ce qui est nécessaire pour faire un bon pari.
+                                En premier lieu, vous devez récolter assez d’informations sur l’évènement sur lequel vous souhaitez parier. De façon concrète, ces dernières seront obtenues à travers les matchs, la fiche de chaque joueur ainsi que les méta-jeux. Elles vous permettront de maîtriser les différents paramètres du jeu, ce qui est nécessaire pour <strong>faire un bon pari.</strong>
                                 </p>
                                 <p>
-                                Ensuite, imaginez les cotes des matchs et confrontez-les à celles des bookmakers. Lorsque vos prévisions s’avéreront correctes, vous serez en mesure de maximiser vos chances de gains.
+                                Ensuite, imaginez les cotes des matchs et confrontez-les à celles des bookmakers. Lorsque vos prévisions s’avéreront correctes, vous serez en mesure de <strong>maximiser vos chances de gains</strong>.
                                 </p>
-                                <p>Pour finir, vous devez savoir que les paris sur SC 2 s’effectuent uniquement sur un joueur. Contrairement à d’autres eSports, vous ne pouvez pas miser sur une équipe. Les options de mise prennent en compte votre joueur favori ou la nationalité de celui qui remportera la partie. Il est aussi possible de parier sur la durée d’un match.</p>
+                                <p>Pour finir, vous devez savoir que les paris sur SC 2 s’effectuent uniquement sur un joueur. Contrairement à d’autres eSports, vous ne pouvez pas miser sur une équipe. Les options de mise prennent en compte votre joueur favori ou la nationalité de celui qui remportera la partie. Il est aussi possible de parier sur la <strong>durée d’un match.</strong></p>
                             </div>
-
+							<div class="post-img">
+						<div class="item"><img src="../img/scraft.jpg" alt="The Last of us"></div>
+					
+					</div>	
                             <div>
                                 <h2>Les différents tournois majeurs de SC 2 ?</h2>
                                 <p>StarCraft 2 regroupe dans le monde une multitude de joueurs à travers des compétitions. Pour les parieurs, c’est le moment idéal d’effectuer des mises.</p>
@@ -73,7 +66,7 @@
 
                             <div>
                                 <h2>StarCraft 2 World ChampionShip Series</h2>
-                                <p>Créée en 2012 par Blizzard Entertainment, cette compétition se déroule en deux phases : la phase éliminatoire et la phase finale. Avant de retrouver cette dernière étape, les compétiteurs s’affrontent au niveau continental en Europe et en Amérique. Il y a aussi une phase éliminatoire en Corée.</p>
+                                <p>Créée en 2012 par Blizzard Entertainment, cette compétition se déroule en deux phases : la phase éliminatoire et la phase finale. Avant de retrouver cette dernière étape, les compétiteurs s’affrontent au niveau continental en Europe et en Amérique. Il y a aussi une <strong>phase éliminatoire en Corée.</strong></p>
                             </div>
                             <div>
                                 <h2>StarCraft 2 Starleague</h2>

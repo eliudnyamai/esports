@@ -13,24 +13,14 @@
 					<div class="post">
 						<div class="module-content">
 							<div class="post-img">
-					<div class="owl-carousel owl-theme" data-items="2" data-auto-play="true">
-						<div class="item"><img src="img/bg-04.jpg" alt="The Last of us"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="GTA V"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-					</div>
+						<div class="item"><img src="img/skin-gambling.jpg" alt="The Last of us"></div>
+						
 					</div>																
 							<div class="info">
 								<ul >
 									<li class="date"><i class="fa fa-calendar"></i>31 sept 2020</li>
 									<li class="authors"><a href="#"><i class="fa fa-user"></i>Laurent</a></li>
-									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Cbet</a></li>
+									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Skin-gambling</a></li>
 								</ul>
 							</div>	
 							
@@ -44,7 +34,7 @@
                             <div>
 								<h2>Quelle est la définition du skin gambling ?</h2>
 								<p>
-                                    Le skin gambling fait référence à l’usage d’accessoires virtuels dans le but de parier sur des matchs de tournoi eSport. De façon pratique, il s’agit des « skins », une monnaie numérique dont se servent les parieurs pour miser. Elle est essentiellement utilisée par la communauté de Counter-Strike : Global Offensive (CS : GO) en raison de sa forte présence dans les récentes versions du jeu vidéo. 
+                                    Le skin gambling fait référence à <strong>l’usage d’accessoires virtuels </strong>dans le but de parier sur des matchs de tournoi eSport. De façon pratique, il s’agit des « skins », une monnaie numérique dont se servent les parieurs pour miser. Elle est essentiellement utilisée par la communauté de Counter-Strike : Global Offensive (CS : GO) en raison de sa forte présence dans les récentes versions du jeu vidéo. 
                                 </p>
                                 <p>
                                 Mieux, les skins se présentent sous plusieurs formes et valeurs. En dehors des skins d’armes, vous avez par exemple les skins des couteaux qui peuvent revenir à plus de 1000 dollars. Il suffit de retrouver le bookmaker idéal qui saura couvrir vos échanges.
@@ -57,10 +47,12 @@
                                 Malgré le mot d’ordre du Washington State Gambling Commission impliquant la fermeture de certains sites, d’autres sont encore d’actualité.
                                 </p>
                                 <p>
-                                Vous trouverez des références en matière de skin gambling. Il existe des sites qui proposent une interface ergonomique qui permet aux parieurs de vivre une expérience utilisateur unique. À partir de vos skins, vous pouvez réaliser toute sorte de mise sur les variantes comme CS : GO crash et CS : GO Hilo. De l’autre côté, on retrouve le site CS : GO Empire accessible tous les types de support numérique. Les dépôts sont en skins avec une diversité de jeux allant de CS : GO à Dota 2. 
+                                Vous trouverez des références en matière de skin gambling. Il existe des sites qui proposent une interface ergonomique qui permet aux parieurs de vivre une expérience utilisateur unique. À partir de vos skins, vous pouvez <strong>réaliser toute sorte de mise </strong> sur les variantes comme CS : GO crash et CS : GO Hilo. De l’autre côté, on retrouve le site CS : GO Empire accessible tous les types de support numérique. Les dépôts sont en skins avec une <strong>diversité de jeux </strong> allant de CS : GO à Dota 2. 
                                 </p>
 							</div>
-
+							<div class="post-img">
+						<div class="item"><img src="img/skin-gambling1.jpg" alt="The Last of us"></div>
+							</div>	
                             <div>
 								<h2>Comment obtenir les skins ?</h2>
 								<p>
@@ -71,14 +63,14 @@
                             <div>
 								<h2>Lors d’une partie de Counter-Strike : Global Offensive</h2>
 								<p>
-                                La première méthode pour obtenir ces ressources virtuelles est de jouer un match de CS : GO. Elles apparaissent de façon aléatoire au cours du jeu. Il est toutefois possible de les repérer à travers leur apparence. En effet, les concepteurs du jeu vidéo n’hésitent pas à répartir sur la carte du joueur des skins colorés ou lumineux. Chaque skin obtenu est automatiquement sauvegardé dans une boutique (compte Steam) réservée au joueur.
+                                La première méthode pour obtenir ces ressources virtuelles est de <strong>jouer un match de CS : GO</strong>. Elles apparaissent de façon aléatoire au cours du jeu. Il est toutefois possible de les repérer à travers leur apparence. En effet, les <strong>concepteurs du jeu vidéo </strong> n’hésitent pas à répartir sur la carte du joueur des skins colorés ou lumineux. Chaque skin obtenu est automatiquement sauvegardé dans une boutique (compte Steam) réservée au joueur.
                                 </p>
 							</div>
 
                             <div>
 								<h2>Lors des tournois majeurs</h2>
 								<p>
-                                L’autre possibilité d’avoir des skins est de suivre attentivement les grands tournois. Cela peut se faire sur GO TV qui est la chaîne officielle du jeu et sur Twitch. En ce qui concerne ce dernier, n’oubliez pas d’y joindre votre compte Steam avant toute compétition.
+                                L’autre possibilité d’avoir des skins est de <strong>suivre attentivement les grands tournois</strong>. Cela peut se faire sur GO TV qui est la chaîne officielle du jeu et sur Twitch. En ce qui concerne ce dernier, n’oubliez pas d’y joindre votre compte Steam avant toute compétition.
                                 </p>
 							</div>
 
@@ -91,10 +83,10 @@
                             <div>
 								<h2>Comment parier avec des skins CS : GO ?</h2>
 								<p>
-                                C’est un secret de polichinelle de savoir que les joueurs qui détiennent des skins peuvent l’utiliser pour faire des paris. De plus, la procédure est ultra simple.
+                                C’est un secret de polichinelle de savoir que les joueurs qui détiennent des skins peuvent l’utiliser pour <strong>faire des paris</strong>. De plus, la procédure est ultra simple.
                                 </p>
                                 <p>
-                                La première étape est de déposer les skins obtenus sur un site spécialisé comme chez des bookmakers. Ensuite, il faudra les miser en fonction des côtes et des analyses stratégiques du parieur.
+                                La première étape est de déposer les skins obtenus sur un site spécialisé comme chez des <strong>bookmakers</strong>. Ensuite, il faudra les miser en fonction des côtes et des analyses stratégiques du parieur.
                                 </p>
                                 <p>
                                 Lorsque l’issue du pari est bonne, le parieur ou le joueur obtient des skins supplémentaires. À sa demande, ces derniers sont transférés sur son compte Steam. Le propriétaire de ses skins peut enfin les vendre contre de l’argent réel ou l’échanger.

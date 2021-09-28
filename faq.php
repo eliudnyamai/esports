@@ -14,25 +14,14 @@
 					<div class="post">
 						<div class="module-content">
 							<div class="post-img">
-					<div class="owl-carousel owl-theme" data-items="2" data-auto-play="true">
-						<div class="item"><img src="img/bg-04.jpg" alt="The Last of us"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="GTA V"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-					</div>
+						<div class="item"><img src="img/faq.jpg" alt="The Last of us"></div>
 							</div>		
 																						
 							<div class="info">
 								<ul >
 									<li class="date"><i class="fa fa-calendar"></i>31 sept 2020</li>
 									<li class="authors"><a href="#"><i class="fa fa-user"></i>Laurent</a></li>
-									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Cbet</a></li>
+									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Faq</a></li>
 								</ul>
 							</div>	
 							
@@ -49,10 +38,12 @@
                             <div>
 								<h2>Qu’est-ce qu’un pari sur les eSports ?</h2>
 								<p>
-                                En raison de la popularité des eSports, il est possible de parier sur ces jeux tout comme on le fait pour le football par exemple. Vous avez l’occasion de mettre votre compréhension de chaque jeu à profit. En retour, vous pouvez gagner de l’argent réel en fonction des victoires, des pronostics de jeu et des accessoires.  
+                                En raison de la popularité des eSports, il est possible de parier sur ces jeux tout comme on le fait pour le football par exemple. Vous avez l’occasion de mettre votre compréhension de chaque jeu à profit. En retour, vous pouvez <strong>gagner de l’argent réel </strong>  en fonction des victoires, des pronostics de jeu et des accessoires.  
                                 </p>
 							</div>
-
+							<div class="post-img">
+						<div class="item"><img src="img/faq1.jpg" alt="faqs"></div>
+							</div>	
 							<div>
 								<h2>Où trouver les paris sur les eSports ?</h2>
 								<p>
@@ -90,7 +81,7 @@
                             <div>
 								<h2>Comment savoir si mon pari a été bien placé ?</h2>
 								<p>
-                                Avant même de pouvoir placer un pari, il faut avoir un compte chez un bookmaker ou un site de paris. Une fois que vous êtes connecté, sélectionnez votre option de marché. Il vous suffit ensuite de cliquer sur l’onglet « Placer les paris ». Si l’opération s’est bien déroulée, une confirmation s’affichera et une mise à jour de votre ticket de pari sera effectuée. 
+                                Avant même de pouvoir placer un pari, il faut avoir un compte chez un bookmaker ou un site de paris. Une fois que vous êtes connecté, sélectionnez votre option de marché. Il vous suffit ensuite de cliquer sur l’onglet « <strong>Placer les paris</strong> ». Si l’opération s’est bien déroulée, une confirmation s’affichera et une mise à jour de votre ticket de pari sera effectuée. 
                                 </p>
 							</div>
 

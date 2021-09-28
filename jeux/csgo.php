@@ -13,18 +13,8 @@
 					<div class="post">
 						<div class="module-content">
 							<div class="post-img">
-					<div class="owl-carousel owl-theme" data-items="2" data-auto-play="true">
-						<div class="item"><img src="img/bg-04.jpg" alt="The Last of us"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="GTA V"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-					</div>
+						<div class="item"><img src="../img/csgo.jpg" alt="The Last of us"></div>
+					
 					</div>																
 							<div class="info">
 								<ul >
@@ -44,10 +34,10 @@
                             <div>
 								<h2>Bien choisir son bookmaker CS : GO</h2>
 								<p>
-                                S’il est possible de miser sur son club de football préféré, les paris sur CS : GO partagent également ce principe. Il faut néanmoins bien choisir son bookmaker afin de maximiser ses chances de faire des gains.
+                                S’il est possible de miser sur son club de football préféré, les paris sur CS : GO partagent également ce principe. Il faut néanmoins <strong>bien choisir son bookmaker </strong>afin de maximiser ses chances de faire des gains.
                                </p>
                                  <p>
-                                 Afin de mettre toutes les chances de votre côté, opter pour un fournisseur de paris assez réputé dans l’univers du eSport. Cela implique la détention d’une licence et une riche offre de paris en ligne. Par ailleurs, votre bookmaker doit proposer les meilleures cotes. N’oubliez surtout pas de vérifier si le site intègre des mises sur les différents tournois majeurs de CS : GO. Pour les nouveaux parieurs, il est fortement important de s’inscrire auprès d’un bookmaker qui dispose d’une politique de jeu responsable.
+                                 Afin de mettre toutes les chances de votre côté, opter pour un fournisseur de paris assez réputé  <strong>l’univers du eSport</strong>. Cela implique la détention d’une licence et une riche offre de paris en ligne. Par ailleurs, votre bookmaker doit proposer les <strong>meilleures cotes. </strong> N’oubliez surtout pas de vérifier si le site intègre des mises sur les différents tournois majeurs de CS : GO. Pour les nouveaux parieurs, il est fortement important de s’inscrire auprès d’un bookmaker qui dispose d’une politique de jeu responsable.
                                  </p>
                             </div>
 
@@ -68,13 +58,15 @@
                                   Par ailleurs, vous pouvez également parier sur un joueur avant ou pendant le démarrage d’un tournoi d’envergure. Avec des cotes assez élevées, ce type de pari peut être comparé à un pari multiple.
                                 </p>
                                 <p>
-                                En somme, les possibilités de paris sont nombreuses et varient d’un bookmaker à un autre. Il peut entre autres s’agir de miser sur le nombre de kills, sur la nation qui gagnera l’évènement, etc. Toutefois, essayez d’adopter une stratégie de paris selon la situation. On n’oublie pas de préciser que le choix des cotes fait également partie des stratégies à ne pas négliger.
+                                En somme, les possibilités de paris sont nombreuses et varient d’un bookmaker à un autre. Il peut entre autres s’agir <i>, etc. Toutefois, essayez d’adopter une stratégie de paris selon la situation. On n’oublie pas de préciser que le choix des cotes fait également partie des stratégies à ne pas négliger.
                                 </p>
                             </div>
-
+							<div class="post-img">
+						<div class="item"><img src="../img/counter-strike.jpg" alt="The Last of us"></div>
+							</div>	
                             <div>
                                 <h2>Connaitre les différents tournois</h3>
-                                <p>Un bon parieur se doit de connaître les tournois importants de CS : GO. Cela permet de mieux orienter ses choix et d’avoir une parfaite connaissance des meilleures cotes. Dans la liste, on retrouve le DreamHack Masters. Il s’agit du point culminant des compétitions de CS : GO, qui a lieu deux fois dans l’année. Ce sont les Suédois du club Fnatic qui dominent l’évènement, mais les surprises peuvent ne pas manquer.</p>
+                                <p>Un bon parieur se doit de connaître les tournois importants de CS : GO. Cela permet de mieux orienter ses choix et d’avoir une <strong>parfaite connaissance des meilleures cotes</strong>. Dans la liste, on retrouve le DreamHack Masters. Il s’agit du point culminant des compétitions de CS : GO, qui a lieu deux fois dans l’année. Ce sont les Suédois du club Fnatic qui dominent l’évènement, mais les surprises peuvent ne pas manquer.</p>
                                 <p>Si ce tournoi semble être d’un niveau supérieur, vous pouvez tout de même participer à plusieurs autres de la même envergure. On pense notamment à l’ESL ESEA Pro League, le CEVO Professional ou encore la Counter Pit League.</p>
                             </div>
 						</div>

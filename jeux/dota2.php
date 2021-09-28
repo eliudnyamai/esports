@@ -13,18 +13,8 @@
 					<div class="post">
 						<div class="module-content">
 							<div class="post-img">
-					<div class="owl-carousel owl-theme" data-items="2" data-auto-play="true">
-						<div class="item"><img src="img/bg-04.jpg" alt="The Last of us"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="GTA V"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-					</div>
+						<div class="item"><img src="../img/dota2.jpg" alt="The Last of us"></div>
+					
 					</div>																
 							<div class="info">
 								<ul >
@@ -43,7 +33,7 @@
                             <div>
 								<h2>Parier en optant pour le bon bookmaker</h2>
 								<p>
-                                Pour tout parieur en ligne, le choix du bookmaker est vraiment déterminant. Pour être certain de bien choisir, il convient de prendre en compte certaines conditions. Ainsi, un bookmaker digne de confiance doit :
+                                Pour tout parieur en ligne, le <strong>choix du bookmaker </strong> est vraiment déterminant. Pour être certain de bien choisir, il convient de prendre en compte certaines conditions. Ainsi, un bookmaker <strong>digne de confiance </strong> doit :
                                 </p>
                                 <ul class="in-article-list" >
                                    <li>posséder une licence dans son pays d’intervention ;</li>
@@ -53,21 +43,24 @@
                                 </ul>
                                 <p>N’hésitez pas à faire quelques comparatifs afin de retrouver le bookmaker qui répond à vos exigences.</p>
 							</div>
-
+							<div class="post-img">
+						<div class="item"><img src="../img/dota.jpg" alt="The Last of us"></div>
+					
+					</div>	
                             <div>
 								<h2>Connaître les codes de paris Dota 2 pour bien parier</h2>
 								<p>
                                 Avant de miser sur son équipe favorite, tout parieur doit nécessairement s’acquérir de quelques astuces clés.
                                 </p>
                                 <h3>La compréhension des cotes</h3>
-                                <p>La cote représente le nombre qui définit le gain potentiel d’un parieur. Elle se calcule à l’aide de plusieurs critères par le bookmaker en ligne. La probabilité d’un évènement gagnant ou non est également définie par la cote.</p>
-                                <p>En effet, plus celle-ci est élevée, moins le résultat recherché est susceptible de se produire et vice-versa. Généralement, les bénéfices sont obtenus en multipliant la cote définie par le montant du pari. Ainsi, un pari de 20 euros sur un match de Dota 2 avec une cote de 2,5 vous octroiera 50 euros en cas de victoire.</p>
+                                <p>La cote représente le nombre qui définit le <strong>gain potentiel </strong>  d’un parieur. Elle se calcule à l’aide de plusieurs critères par le bookmaker en ligne. La <strong>probabilité d’un évènement </strong>gagnant ou non est également définie par la cote.</p>
+                                <p>En effet, plus celle-ci est élevée, moins le résultat recherché est susceptible de se produire et vice-versa. Généralement, les bénéfices sont obtenus en multipliant la cote définie par le montant du pari. Ainsi, un pari de 20 euros sur un match de Dota 2 avec une cote de 2,5 vous octroiera 50 euros en <strong>cas de victoire</strong>.</p>
                                 <h3>La connaissance des types de paris</h3>
-                                <p>De façon générale, le pari offert par les bookmakers sur Dota 2 consiste à parier sur le match winner, c’est-à-dire le vainqueur d’un match. Il est question d’un pari classique que l’on retrouve dans tous les jeux électroniques.</p>
+                                <p>De façon générale, le pari offert par les bookmakers sur Dota 2 consiste à <strong>parier sur le match winner</strong> , c’est-à-dire le vainqueur d’un match. Il est question d’un pari classique que l’on retrouve dans tous les <strong>jeux électroniques</strong>.</p>
                                 <p> Il existe néanmoins plusieurs autres offres de paris. Les plus courants sont :</p>
                                 <ul class="in-article-list" >
                                    <li>Le score exact qui est un pari unique dans lequel vous misez sur le score précis d’une rencontre. Il est toutefois possible de parier sur un score nul en fonction du tournoi choisi.</li>
-                                   <li>Les paris express qui nécessitent la combinaison de plusieurs évènements. Ce type de pari utilise des coefficients de combats pouvant se multiplier. Il offre l’opportunité de gagner beaucoup d’argent, mais vous pouvez également en perdre si une seule équipe de votre combinaison perd son match.</li>
+                                   <li>Les paris express qui nécessitent la <strong>combinaison de plusieurs évènements. </strong> Ce type de pari utilise des coefficients de combats pouvant se multiplier. Il offre l’opportunité de gagner beaucoup d’argent, mais vous pouvez également en perdre si une seule équipe de votre combinaison perd son match.</li>
                                 </ul>
                                 <p> Le format dans lequel se place le jeu Dota 2 implique que le vainqueur soit l’équipe qui totalise au moins deux victoires avant son adversaire.</p>
                             </div>

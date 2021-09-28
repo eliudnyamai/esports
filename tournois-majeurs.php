@@ -13,24 +13,14 @@
 					<div class="post">
 						<div class="module-content">
 							<div class="post-img">
-					<div class="owl-carousel owl-theme" data-items="2" data-auto-play="true">
-						<div class="item"><img src="img/bg-04.jpg" alt="The Last of us"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="GTA V"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-					</div>
+						<div class="item"><img src="img/tournois-majeurs.jpg" alt="The Last of us"></div>
+					
 					</div>																
 							<div class="info">
 								<ul >
 									<li class="date"><i class="fa fa-calendar"></i>31 sept 2020</li>
 									<li class="authors"><a href="#"><i class="fa fa-user"></i>Laurent</a></li>
-									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Cbet</a></li>
+									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Tournois-majeurs</a></li>
 								</ul>
 							</div>	
 							
@@ -44,10 +34,10 @@
                             <div>
 								<h2>Le tournoi Fortnite World Cup</h2>
 								<p>
-                                Déjà disponible sur presque tous les supports numériques (PC, PS4, XBOX et Switch), Fortnite est l’un des jeux les plus populaires au monde. Sorti en 2017, ce jeu de l’éditeur Epic Games fait un carton et possède une énorme communauté. Son graphisme cartoon embarque un design presque réaliste.
+                                Déjà disponible sur presque tous les supports numériques (PC, PS4, XBOX et Switch), Fortnite est l’un des <strong>jeux les plus populaires au monde</strong>. Sorti en 2017, ce jeu de l’éditeur Epic Games fait un carton et possède une énorme communauté. Son graphisme cartoon embarque un <strong>design presque réaliste.</strong>
                                 </p>
                                 <p>
-                                Il est fortement représenté par le tournoi World Cup qui fait suite au succès du mode Battle Royale de Fortnite. Ledit tournoi est organisé par Epic Games avec une accessibilité réservée à tout le monde. Sa première édition organisée en 2019 a attiré plus de 2 millions d’amateurs pour environ 2,3 millions de vues sur YouTube.
+                                Il est fortement représenté par le tournoi World Cup qui fait suite au succès du mode Battle Royale de Fortnite. Ledit tournoi est organisé par Epic Games avec une accessibilité réservée à tout le monde. Sa première édition organisée en 2019 a attiré plus de <strong>2 millions d’amateurs pour environ 2,3 millions de vues sur YouTube.</strong>
                                 </p>
                                 <p>
                                 Il faut également révéler que le World Cup offre une récompense de 3 millions pour le gagnant solo. C’est une performance qu’il peut se permettre en raison des fortes contributions issues de ses crowdfundings qui se résument à plus de 30 millions de dollars. Pour la communauté, il s’agit d’un record. 
@@ -61,10 +51,12 @@
                                 </p>
 
                                 <p>
-                                Il est fortement représenté par le tournoi World Cup qui fait suite au succès du mode Battle Royale de Fortnite. Ledit tournoi est organisé par Epic Games avec une accessibilité réservée à tout le monde. Sa première édition organisée en 2019 a attiré plus de 2 millions d’amateurs pour environ 2,3 millions de vues sur YouTube.
-                                </p>
+								Il est porté par Les Hearthstone Masters Tour qui se déclinent en plusieurs évènements en fonction du programme établi par les promoteurs. En 2020, chaque continent a connu un évènement pour des tours de qualifications. Le cinquième Championnat du monde de Hearthstone a eu lieu en avril 2019 et s’est tenu à Taipei. À l’issue de la compétition, <i>le Norvégien Casper Notto repart avec la première place et une belle récompense de 250 000 dollars.</i>
+							     </p>
 							</div>
-
+							<div class="post-img">
+						<div class="item"><img src="img/tournois-majeurs1.jpg" alt="The Last of us"></div>
+							</div>	
                             <div>
 								<h2>Le Call of Duty Championship</h2>
 								<p>
@@ -88,7 +80,7 @@
                                 EA Sports connaît chaque année un succès vraiment remarquable grâce à son célèbre jeu FIFA.
                                 </p>
                                 <p>
-                                Le développeur organise chaque année la FIFA eWorld Cup et cela depuis 2004. La première édition tenue à Zurich a regroupé 32 joueurs du monde entier. Retenez que la participation à ce tournoi implique que le participant est détenteur de la certification Fut Champion. Les champions de FUT sélectionnés participeront à des sélections régionales à double élimination. Après cela, les meilleurs devront se qualifier pour les Playoffs régionaux. Les joueurs les mieux classés pourront enfin participer à la FIFA eWorld Cup. L’allemand Mohammed Harkous est actuellement le tenant du titre.
+                                Le développeur organise chaque année la FIFA eWorld Cup et cela depuis 2004. La première édition tenue à Zurich a regroupé 32 joueurs du monde entier. Retenez que la participation à ce tournoi implique que le participant est détenteur de la <strong>certification Fut Champion. </strong> Les champions de FUT sélectionnés participeront à des <strong>sélections régionales à double élimination</strong>. Après cela, les meilleurs devront se qualifier pour les Playoffs régionaux. Les joueurs les mieux classés pourront enfin participer à la FIFA eWorld Cup. <i>L’allemand Mohammed Harkous est actuellement le tenant du titre.</i>
                                 </p>
                                 <p>
                                 En 2021, le nombre de participants a augmenté et est passé à 42. Le travail d’équipe sera donc essentiel pour espérer remporter le tournoi et la somme colossale de 350 000 dollars.

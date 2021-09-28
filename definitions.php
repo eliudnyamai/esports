@@ -13,25 +13,14 @@
 					<div class="post">
 						<div class="module-content">
 							<div class="post-img">
-					<div class="owl-carousel owl-theme" data-items="2" data-auto-play="true">
-						<div class="item"><img src="img/bg-04.jpg" alt="The Last of us"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="GTA V"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-01.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-02.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-03.jpg" alt="Mirror Edge"></div>
-						<div class="item"><img src="img/bg-04.jpg" alt="Mirror Edge"></div>
-					</div>
+						<div class="item"><img src="img/esport.jpg" alt="The Last of us"></div>
 							</div>		
 																						
 							<div class="info">
 								<ul >
 									<li class="date"><i class="fa fa-calendar"></i>31 sept 2020</li>
 									<li class="authors"><a href="#"><i class="fa fa-user"></i>Laurent</a></li>
-									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Cbet</a></li>
+									<li class="tag"><a href="#"><i class="fa fa-tag"></i>Definitions</a></li>
 								</ul>
 							</div>	
 							<h1>Définitions</h1>
@@ -58,6 +47,9 @@
                                         <li> <strong>Pari avec Handicap </strong> : c’est un type de pari qui permet de donner de l’avantage à une équipe lors d’une rencontre. Ce type de pari permet de combler l’écart de points ou de buts entre les adversaires. </li>
                                     </ul>
                                 </p>
+                                <div class="post-img">
+						<div class="item"><img src="img/esport1.jpg" alt="The Last of us"></div>
+							</div>	
                                 <p>
                                     <ul class="in-article-list" >
                                         <li> <strong>Fantasy  </strong> : Fantasy ou ligue fantasy est un jeu dans lequel les participants jouent le rôle de propriétaire d’équipes sportives. Ils disposent des joueurs auxquels sont attribués des points pour faciliter leur évolution et les paris. </li>
